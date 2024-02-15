@@ -1,1 +1,16 @@
+head {
+  color:brown;
+}
 
+h1 {
+  text-align:center;
+  text-size:36px;
+  text-family:Verdana;
+  color:black;
+  width:100%;
+}
+
+#top {
+  Background-color:burlywood;
+  width:100%;
+}
